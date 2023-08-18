@@ -1,4 +1,4 @@
-# -Analyzing_NASA_Planetary_Budgets
+# Analyzing NASA Planetary Budgets
 Welcome to the GitHub repository for analyzing NASA's planetary exploration budgets using SQL. In this project, we explore the financial aspects of NASA's planetary missions over the years and gain insights into spending patterns, adjustments for inflation, mission costs by destination, and more. This readme provides an overview of the project structure, objectives, and the SQL queries used to perform the analysis.
 
 ## Objective
